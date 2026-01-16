@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Kevin !
 
-<!--
-**kvn703/kvn703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Développeur passionné de Mobile & Web
 
-Here are some ideas to get you started:
+Je suis un développeur passionné par la création d'applications mobiles et web modernes, performantes et élégantes. J'adore transformer des idées en produits concrets qui ont un impact réel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technologies & Stack
+
+### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B? style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🌐 Web Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933? style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E? style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+## 📫 Me contacter
+
+N'hésite pas à me contacter pour collaborer sur des projets ou simplement discuter tech ! 🤝
+
+---
+
+⭐️ *"Le code est de la poésie en mouvement"*
