@@ -1,8 +1,8 @@
-# 👋 Salut, moi c'est Kevin !
+# 👋 Hi, I'm Kevin! 
 
-## 🚀 Développeur passionné de Mobile & Web
+## 🚀 Passionate Mobile & Web Developer
 
-Je suis un développeur passionné par la création d'applications mobiles et web modernes, performantes et élégantes. J'adore transformer des idées en produits concrets qui ont un impact réel.
+I'm a developer passionate about creating modern, performant, and elegant mobile and web applications. I love transforming ideas into concrete products that have a real impact.
 
 ---
 
@@ -24,10 +24,10 @@ Je suis un développeur passionné par la création d'applications mobiles et we
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact Me
 
-N'hésite pas à me contacter pour collaborer sur des projets ou simplement discuter tech ! 🤝
+Feel free to reach out to collaborate on projects or simply chat about tech! 🤝
 
 ---
 
-⭐️ *"Le code est de la poésie en mouvement"*
+⭐️ *"Code is poetry in motion"*
